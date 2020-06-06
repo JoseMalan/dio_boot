@@ -3,9 +3,10 @@
 }
 
 .quem-somos {
-    background-color: royalblue
+    background-color: royalblue;
+    color: white
 }
 
 .margin {
-    padding-top: 50px;
+    padding-bottom: 50px;
 }
